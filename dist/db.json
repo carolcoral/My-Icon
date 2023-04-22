@@ -1,5 +1,10 @@
 [
   {
+    "name": "photo",
+    "sort": "other",
+    "course": ""
+  },
+  {
     "name": "myicon",
     "sort": "other",
     "course": "https://gitee.com/heizicao/my-icon"
