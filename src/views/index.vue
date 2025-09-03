@@ -77,7 +77,19 @@
       </el-space>
     </div>
     <div class="foot">
-      <div class="foot_txt">© 2023.4.18 | By David</div>
+      <div class="foot_txt">© 2025 | By XIN·DU</div>
+      <div class="icp">
+        <div class="foot_txt">
+            <a class="github-badge" target="_blank" href="https://beian.miit.gov.cn/" style="margin-inline:5px" title="蜀ICP备-2023016788号">
+                        <img src="https://api.minio.xindu.site/blog.cnkj.site/archives/%E8%9C%80ICP%E5%A4%87-2023016788%E5%8F%B7-blue.svg" alt="蜀ICP备-2023016788号">
+                    </a>
+        </div>
+        <div class="foot_txt">
+            <a class="github-badge" target="_blank" href="https://beian.mps.gov.cn/#/query/webSearch" style="margin-inline:5px" title="蜀公网安备-51010702001753号">
+                        <img src="https://api.minio.xindu.site/blog.cnkj.site/archives/%E8%9C%80%E5%85%AC%E7%BD%91%E5%AE%89%E5%A4%87-51010702001753%E5%8F%B7-blue.svg" alt="蜀公网安备-51010702001753号">
+                    </a>
+        </div>
+      </div>
       <div class="foot_url">
         <el-image
           class="foot_img"
