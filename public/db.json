@@ -1153,5 +1153,100 @@
     "name": "github-3",
     "sort": "other",
     "course": ""
+  },
+  {
+    "name": "1Panel",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "certd",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "ddns-go",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "domainsite",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "gitea",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "home-assistant-logomark-color-on-light",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "homepage",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "lsky",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "minio2",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "monitor",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "moontv",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "moviepilot",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "NAS",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "others",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "services",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "synology-dsm",
+    "sort": "synology_nas",
+    "course": ""
+  },
+  {
+    "name": "transmission",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "valutwarden",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "homepage-banner",
+    "sort": "docker",
+    "course": ""
   }
 ]
