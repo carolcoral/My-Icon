@@ -3,15 +3,17 @@
     <div class="head">
       <h1 class="head_title">My Icon</h1>
       <h4 class="head_txt">
-        提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途
+        提供在线图标链接，用于个人NAS设备显示使用
       </h4>
-      <h4 class="head_txt">开源项目，By David</h4>
       <div class="use">
         <el-image class="use_img" :src="require('../assets/docker.png')" />
         <div class="use_txt">Docker容器</div>
         <el-divider direction="vertical" />
-        <el-image class="use_img" :src="require('../assets/vms.png')" />
+        <el-image class="use_img" :src="require('../assets/vms2.png')" />
         <div class="use_txt">VMS虚拟机</div>
+        <el-divider direction="vertical" />
+        <el-image class="use_img" :src="require('../assets/synology.png')" />
+        <div class="use_txt">群晖NAS</div>
         <el-divider direction="vertical" />
         <el-image class="use_img" :src="require('../assets/other.png')" />
         <div class="use_txt">其他</div>
@@ -35,6 +37,7 @@
           >
             <el-option label="容器" value="1" />
             <el-option label="虚拟机" value="2" />
+            <el-option label="群晖NAS" value="4" />
             <el-option label="其他" value="3" />
           </el-select>
         </template>
@@ -76,22 +79,15 @@
     <div class="foot">
       <div class="foot_txt">© 2023.4.18 | By David</div>
       <div class="foot_url">
-        <el-popover placement="top" :width="150">
-          <template #reference>
-            <el-image class="foot_img" :src="require('../assets/wechat.png')" />
-          </template>
-          <el-image class="qrcode_img" :src="require('../assets/qrcode.png')" />
-        </el-popover>
-
         <el-image
           class="foot_img"
-          :src="require('../assets/gitee.png')"
-          @click="openUrl('https://gitee.com/heizicao/my-icon')"
+          :src="require('../assets/logo-doiw.png')"
+          @click="openUrl('https://blog.xindu.site')"
         />
         <el-image
           class="foot_img"
           :src="require('../assets/github.png')"
-          @click="openUrl()"
+          @click="openUrl('https://github.com/carolcoral/My-Icon')"
         />
       </div>
     </div>
@@ -153,7 +149,10 @@ export default defineComponent({
       } else if (value == 3) {
         data.selectlabel = "其他";
         filteredData = tempdata.filter((item) => item.sort == "other");
-      } else {
+      } else if (value == 4) {
+        data.selectlabel = "群晖NAS";
+        filteredData = tempdata.filter((item) => item.sort == "synology_nas");
+      }else {
         data.selectlabel = "全部";
         filteredData = tempdata;
       }

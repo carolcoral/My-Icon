@@ -18,17 +18,17 @@
     "name": "ChineseSubFinder",
     "sort": "docker",
     "course": "https://github.com/ChineseSubFinder/ChineseSubFinder"
-  },  
+  },
   {
     "name": "nps",
     "sort": "docker",
     "course": "https://github.com/ehang-io/nps/"
-  }, 
+  },
   {
     "name": "frps",
     "sort": "docker",
     "course": "https://github.com/fatedier/frp"
-  },  
+  },
   {
     "name": "filebrowser",
     "sort": "docker",
@@ -623,5 +623,535 @@
     "name": "winpe",
     "sort": "vms",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247517693&idx=1&sn=6f8c510341ff25cc48c6226261ff2918&chksm=ea4152b0dd36dba67e77a5275fde4086cfbaa2dd807c001a86122feeb013c97606cf535bb4f0&token=1059416760&lang=zh_CN#rd"
+  },
+  {
+    "name": "ActiveBackup",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ActiveBackup-GSuite",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ActiveBackup-Office365",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "AIConsole",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "AntiVirus",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "AntiVirus-McAfee",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Apache2.4",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ArchiwareP5",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "AudioStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "BackupRestoreManager",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "BitDefenderForMailPlus",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "C2IdentityLDAPAgent",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Calendar",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Calendar2",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "CloudSync",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "CMS",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "CodecPack",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Contacts",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ContainerManager",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ControlPanel",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DdbBackup",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DhcpServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DirectoryServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DirectoryServerForWindowsDomain",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DNSServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DocumentViewer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "domotz",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "DownloadStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "elephantdrive",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "EmbyServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "exFAT-Free",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "FileStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Git",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "GlacierBackup",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "GoodSync",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "HighAvailability",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "HybridShare",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "HyperBackup",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "HyperBackupVault",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "IDrive",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Joomla",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "KodExplorer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "LogCenter",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MailClient",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MailPlus-Server",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MailServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MailStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MariaDB10",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MediaServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MediaWiki",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MEGAcmd",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MigrationAssistant",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "MinimServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "NBR",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "NBR-Transporter",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "nConnect",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Node.js_v14",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "NoteStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "OAuthService",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "package_center_64",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "PACS",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Perl",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Phddns",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "PHP7.3",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "phpMyAdmin",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "PlexMediaServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "PrestoServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ProxyServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Python2",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "QuickConnect",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "RadiusServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "RagicBuilder",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ReplicationService",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ResourceMonitor",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "ScsiTarget",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SecureSignIn",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SMBService",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SnapshotReplication",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Sony_BraviaSignage",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Spreadsheet",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SSOServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "StorageAnalyzer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "StorageManager",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SurveillanceStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SurveillanceVideoExtension",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SynoFinder",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SynologyApplicationService",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SynologyDrive",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SynologyPhotos",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "SynoSmisProvider",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "TeamViewer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "TextEditor",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "UniversalViewer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "USBCopy",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "VirtualHere",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "Virtualization",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "VirtualManagement",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "vtigerCRM",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "WebDAVServer",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "WebStation",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "WordPress",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "synology",
+    "sort": "synology_nas",
+    "course": "https://www.synology.cn/zh-cn/support/download/DS920+?version=7.2#packages"
+  },
+  {
+    "name": "docker",
+    "sort": "docker",
+    "course": ""
+  },
+  {
+    "name": "github",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "github-2",
+    "sort": "other",
+    "course": ""
+  },
+  {
+    "name": "github-3",
+    "sort": "other",
+    "course": ""
   }
 ]
