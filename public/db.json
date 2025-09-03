@@ -165,11 +165,6 @@
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490008&idx=1&sn=20ff7f96bc67e99333ad0d77c519498f&chksm=ea42ce95dd354783c3e8a9e58e5da0f6c428190686a701ab4ce353534a9b2da091feaebc7705&token=1059416760&lang=zh_CN#rd"
   },
   {
-    "name": "wordpress",
-    "sort": "docker",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490303&idx=1&sn=50b653782acbc96cafbf6ee5ff45df81&chksm=ea42cdb2dd3544a4b398cd5ec38264e536cf9b989cfabb0c71677dcf9dac4d2e16e33a7cdc4e&token=1059416760&lang=zh_CN#rd"
-  },
-  {
     "name": "linkease",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247490345&idx=1&sn=4a907dd68ea633eab3d0d9ef83826ee2&chksm=ea42cc64dd35457298f3e93c4ea487e23030c4143704c4c9c78a7efe0bdf62bd011a6a35cd83&token=1059416760&lang=zh_CN#rd"
@@ -268,11 +263,6 @@
     "name": "komga",
     "sort": "docker",
     "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247493194&idx=1&sn=1e0a0c794fdd26bc1ab54320ea1ed150&chksm=ea413107dd36b811a254f794585ead6cda31ee80f3221f2b180b677732e3bf99c2802c6c2743&token=1059416760&lang=zh_CN#rd"
-  },
-  {
-    "name": "embyserver",
-    "sort": "docker",
-    "course": "https://mp.weixin.qq.com/s?__biz=MzI2MjkzMDk3OA==&mid=2247498501&idx=1&sn=e1b01164af83096628f4039413f472ab&chksm=ea412c48dd36a55ee0c4010f676c16844f8b18fb20d5d256c5aae9eaa3c1bfb9f29dcfe3a46a&token=1059416760&lang=zh_CN#rd"
   },
   {
     "name": "bgmi",
