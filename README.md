@@ -1,5 +1,5 @@
 # My Icon
-![screenshot](public/assert/images/screenshot.jpg)
+![screenshot](public/assert/images/screenshot.png)
 
 #### 介绍
 提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途

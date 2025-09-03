@@ -77,7 +77,7 @@
       </el-space>
     </div>
     <div class="foot">
-      <div class="foot_txt">© 2025 | By XIN·DU</div>
+      <div class="foot_txt">@CopyRight 2025 | By <a href="https://xindu.site">XIN·DU</a></div>
       <div class="icp">
         <div class="foot_txt">
             <a class="github-badge" target="_blank" href="https://beian.miit.gov.cn/" style="margin-inline:5px" title="蜀ICP备-2023016788号">
@@ -369,5 +369,9 @@ export default defineComponent({
   height: 18px;
   margin: 0 15px;
   // opacity: 0.6;
+}
+.icp {
+  display: flex;
+  flex-flow: row;
 }
 </style>
