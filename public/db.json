@@ -10,9 +10,14 @@
     "course": "https://wiki.vertex.icu/"
   },
   {
+    "name": "nastool_banner",
+    "sort": "docker",
+    "course": "https://github.com/carolcoral/jxxghp-nas-tools"
+  },
+  {
     "name": "nastool",
     "sort": "docker",
-    "course": "https://github.com/NAStool/nas-tools"
+    "course": "https://github.com/carolcoral/jxxghp-nas-tools"
   },
   {
     "name": "ChineseSubFinder",
