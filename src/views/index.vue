@@ -8,7 +8,7 @@
         </a>
       </div>
       <h4 class="head_txt">
-        提供免费在线图标访问和使用
+        提供免费在线图标访问和使用，欢迎大家通过<a href="https://github.com/carolcoral/My-Icon" target="_blank">Github</a>提PR提供更多图标
       </h4>
       <div class="site_icon">
         <el-image class="head_site_icon_img" :src="require('../assets/logo-doiw.png')"
