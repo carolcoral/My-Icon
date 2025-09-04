@@ -1,10 +1,23 @@
 <template>
   <div class="index">
     <div class="head">
-      <h1 class="head_title">My Icon</h1>
+      <!--<h1 class="head_title">XIN·DU ICON</h1>-->
+      <div class="head_title_img">
+        <a href="https://xindu.site" target="_blank">
+            <img src="https://pic.xindu.site/b/2024/66173b9147331.webp?type=blog" alt="logo">
+        </a>
+      </div>
       <h4 class="head_txt">
-        提供在线图标链接，用于个人NAS设备显示使用
+        提供免费在线图标访问和使用
       </h4>
+      <div class="site_icon">
+        <el-image class="head_site_icon_img" :src="require('../assets/logo-doiw.png')"
+          @click="openUrl('https://blog.xindu.site')"
+        />
+        <el-image class="head_site_icon_img" :src="require('../assets/github.png')"
+          @click="openUrl('https://github.com/carolcoral/My-Icon')"
+        />
+      </div>
       <div class="use">
         <el-image class="use_img" :src="require('../assets/docker.png')" />
         <div class="use_txt">Docker容器</div>
@@ -79,7 +92,7 @@
     <div class="foot">
       <div class="foot_txt">@CopyRight 2025 | By <a href="https://xindu.site">XIN·DU</a></div>
       <div class="icp">
-        <div class="foot_txt">
+        <div class="foot_txt" style="margin-right:0.8em;">
             <a class="github-badge" target="_blank" href="https://beian.miit.gov.cn/" style="margin-inline:5px" title="蜀ICP备-2023016788号">
                         <img src="https://api.minio.xindu.site/blog.cnkj.site/archives/%E8%9C%80ICP%E5%A4%87-2023016788%E5%8F%B7-blue.svg" alt="蜀ICP备-2023016788号">
                     </a>
@@ -90,7 +103,7 @@
                     </a>
         </div>
       </div>
-      <div class="foot_url">
+      <div class="foot_url" style="display: none;">
         <el-image
           class="foot_img"
           :src="require('../assets/logo-doiw.png')"
@@ -231,6 +244,7 @@ export default defineComponent({
 }
 .head {
   padding: 50px;
+  padding-top: 0.5em;
   background-color: #f5f7fc;
 }
 
@@ -241,7 +255,7 @@ export default defineComponent({
 .head_txt {
   color: #5d667a;
   font-weight: 400;
-  margin-bottom: -10px;
+  float: left;
 }
 .use {
   margin-top: 50px;
@@ -373,5 +387,20 @@ export default defineComponent({
 .icp {
   display: flex;
   flex-flow: row;
+}
+.site_icon {
+  display: flex;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.head_title_img img {
+  width: 20rem;
+}
+.head_site_icon_img {
+  width: 24px;
+  margin-left: 0.8em;
+  cursor: pointer;
 }
 </style>

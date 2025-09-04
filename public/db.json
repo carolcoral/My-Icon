@@ -1127,116 +1127,236 @@
   {
     "name": "docker",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "github",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "github-2",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "github-3",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "1Panel",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "certd",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "ddns-go",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "domainsite",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "gitea",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "home-assistant-logomark-color-on-light",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "homepage",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "lsky",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "minio2",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "monitor",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "moontv",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "moviepilot",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "NAS",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "others",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "services",
     "sort": "other",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "synology-dsm",
     "sort": "synology_nas",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "transmission",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "valutwarden",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
   },
   {
     "name": "homepage-banner",
     "sort": "docker",
-    "course": ""
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "aipan",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "artalk",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "btcpay-server",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "c",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "csdn",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "dataease",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "element",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "github-light",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "gitlab",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "icinga",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "icon-change administrator",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "iyuu",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "oscarr",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "panel",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "poly",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "premium-mobile-v2",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "redis-commander",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "synology-photo-station",
+    "sort": "synology_nas",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "tooljet",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "twikoo",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "umami",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "uptime-kuma",
+    "sort": "docker",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "urbackup",
+    "sort": "other",
+    "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "vmwarevcenter",
+    "sort": "vms",
+    "course": "https://icon.xindu.site"
   }
 ]
