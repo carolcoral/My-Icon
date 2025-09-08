@@ -1363,5 +1363,10 @@
     "name": "vmwarevcenter",
     "sort": "vms",
     "course": "https://icon.xindu.site"
+  },
+  {
+    "name": "finnhub",
+    "sort": "docker",
+    "course": "https://finnhub.io/"
   }
 ]
